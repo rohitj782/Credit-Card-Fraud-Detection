@@ -1,6 +1,8 @@
 # Credit-Card-Fraud-Detection
 
-PROJECT COLAB LINK -> https://colab.research.google.com/drive/19ATPgUIe_XYeN7RGx35-tp2gAndrPmIr?usp=sharing
+PROJECT COLAB LINK -> 
+
+https://colab.research.google.com/drive/19ATPgUIe_XYeN7RGx35-tp2gAndrPmIr?usp=sharing
 
 
 
@@ -18,6 +20,7 @@ Model trained for 100 epocs.
 
 
 # <b>Dataset Used -> </b>
+
 https://drive.google.com/file/d/1_hpTKbIXzX-tCf2kiaOKWUFY0fm-_9rC/view?usp=sharing
 
 
@@ -36,4 +39,5 @@ val_accuracy: 0.9593
 # <b> References </b>
 
 https://www.kaggle.com/mlg-ulb/creditcardfraud/download
+
 https://www.kaggle.com/mlg-ulb/creditcardfraud/
